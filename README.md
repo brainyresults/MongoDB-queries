@@ -5,6 +5,8 @@ Estudo de queries no MongoDB
 
 https://docs.mongodb.com/manual/aggregation/
 
+https://docs.mongodb.com/manual/reference/sql-aggregation-comparison/
+
 https://nosqlbooster.com/featuresForSQL
 
 https://klaus.dk/sqltomongodb/
